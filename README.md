@@ -1,2 +1,2 @@
 # ABC
-AtCoder Beginners Contest のコード
+AtCoder Beginners Contest のコードをおいてるよ
